@@ -407,8 +407,8 @@ img {
   height: 5rem;
   align-items: center;
 }
-#main-footer .footer-content .social .fa-twitter:hover {
-  background: #1DA1F2;
+#main-footer .footer-content .social .fa-whatsapp:hover {
+  background: #25D366;
 }
 #main-footer .footer-content .social .fa-facebook:hover {
   background: #4267B2;
@@ -419,7 +419,10 @@ img {
 #main-footer .footer-content .social .fa-instagram:hover {
   background: #833AB4;
 }
-#main-footer .footer-content .social .fab {
+#main-footer .footer-content .social a {
+  color: #fff;
+}
+#main-footer .footer-content .social a .fab {
   margin-right: 1rem;
   border: 2px #fff solid;
   border-radius: 50%;

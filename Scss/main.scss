@@ -343,12 +343,17 @@ img {
     height: 5rem;
     align-items: center;
 
-    .social .fa-twitter:hover {background: #1DA1F2;}
+    .social .fa-whatsapp:hover {background: #25D366;}
     .social .fa-facebook:hover {background: #4267B2;}
     .social .fa-linkedin:hover {background: #0077B5;}
     .social .fa-instagram:hover {background: #833AB4;}
 
-    .social .fab {
+    .social a {
+      color: #fff;
+
+    }
+
+    .social a .fab {
       margin-right: 1rem;
       border: 2px #fff solid;
       border-radius: 50%;
